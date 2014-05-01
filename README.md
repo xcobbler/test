@@ -1,4 +1,5 @@
 test
 ====
 
-A playground repo
+A playground repo.
+testing contributer authentication.
